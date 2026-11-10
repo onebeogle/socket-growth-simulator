@@ -1,0 +1,22 @@
+[
+  {
+    "file": "calibration_metrics.csv",
+    "sha256": "3f961e6a62386fc9db3f1c8a7316d0ce7aa22d980bd8f92a8c316b00e39924b2"
+  },
+  {
+    "file": "surface_samples.csv",
+    "sha256": "041f069fe6d082bc42e9a63bd976cdd72a137e8710082b14e295793b4bbbb523"
+  },
+  {
+    "file": "anthropometry.csv",
+    "sha256": "9e2efb5edccfa8edf9f612165149b95bdb632b48a0b315c5a58e623e93532dfd"
+  },
+  {
+    "file": "legacy_metrics.csv",
+    "sha256": "f9d6b5b701cbd5becb83121ea67e6b295787dd233d3b8b537d63b7d87bf68a14"
+  },
+  {
+    "file": "validation.json",
+    "sha256": "22294da04505012056ddef63aa98147885fba97498e104463b7a7f6c6b0e6384"
+  }
+]
